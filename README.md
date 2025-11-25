@@ -10,11 +10,11 @@ This project aims to develop a software suite in Python that automates image enh
 
 ## Table of Contents
 - [Theoretical Basis](#theoretical-basis)
-- [Project Structure](#-project-structure)
-- [Implementation](#-implementation)
-- [Usage](#-usage)
-- [Testing and Results](#-testing-and-results)
-- [Conclusion](#-conclusion)
+- [Project Structure](#project-structure)
+- [Implementation](#implementation)
+- [Usage](#usage)
+- [Testing and Results](#testing-and-results)
+- [Conclusion](#conclusion)
 
 ---
 
