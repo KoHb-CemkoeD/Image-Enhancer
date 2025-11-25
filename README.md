@@ -8,6 +8,15 @@ This project aims to develop a software suite in Python that automates image enh
 
 ---
 
+- [Theoretical Basis](#-theoretical-basis)
+- [Project Structure](#-project-structure)
+- [Implementation](#-implementation)
+- [Usage](#-usage)
+- [Testing and Results](#-testing-and-results)
+- [Conclusion](#-conclusion)
+
+---
+
 ## Theoretical Basis
 ### Interpolation Methods
 - **Linear Interpolation**: A method to find intermediate values within the range of a discrete set of known values. It applies a linear function to change pixel values of the input image.
